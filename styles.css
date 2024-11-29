@@ -18,21 +18,12 @@ body{
     padding-bottom: 15px;
     
 }
-.container1{
+.task{
     text-align:center;
     margin: 0 auto;
     width :auto;
     background-color: rgb(21, 114, 164);
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.7);
-}
-.small-container{
-    text-align:center;
-    margin: 0 auto;
-    width :auto;
-    background-color: rgb(43, 83, 152);
-    margin-bottom: 10px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    transform: rotateX(2deg);
 }
 
 h1{
